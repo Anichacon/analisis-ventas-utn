@@ -1,6 +1,6 @@
 import pandas as pd
 
-ventas = pd.read_excel("datos/dataset.xlsx")
+ventas = pd.read_excel(r"C:\Users\Analia\Documents\GitHub\analisis-ventas-utn\datos\dataset.xlsx")
 
 print(ventas)
 

@@ -1,1 +1,13 @@
-hola
+
+Ventas totales: 99500
+Producto más vendido: Gaseosa
+
+
+
+Resumen del análisis de ventas
+
+Se analizaron las ventas de un kiosco.
+Se calcularon las ventas totales.
+Se identificó el producto más vendido.
+
+Proyecto realizado para el Trabajo Práctico de Organización Empresarial.
